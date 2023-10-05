@@ -13,4 +13,4 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 - Aplicando fontes customizadas;
 - Espaçamentos.
 
-- 
+
